@@ -1,0 +1,15 @@
+package main;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Veiculo veiculo1 = new Veiculo(); //new Veiculo() - construtor da classe
+		//Veiculo - tipo do objeto
+		//veiculo1 - nome do obejto
+		
+		veiculo1
+
+	}
+
+}
