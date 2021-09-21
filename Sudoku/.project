@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Sudoku</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.idea</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/sudoku-main/.idea</locationURI>
+		</link>
+		<link>
+			<name>out</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/sudoku-main/out</locationURI>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/sudoku-main/src</locationURI>
+		</link>
+		<link>
+			<name>sudoku.iml</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/sudoku-main/sudoku.iml</locationURI>
+		</link>
+		<link>
+			<name>src/Main.class</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/sudoku-main/out/production/sudoku/Main.class</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
