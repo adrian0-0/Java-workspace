@@ -8,7 +8,12 @@
     <fullyQualifiedTypeName name="Aumento_Salarial"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="sun.util.resources.CalendarData"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="Animal_ZOO"/>
     <fullyQualifiedTypeName name="Mamifero_ZOO"/>
+    <fullyQualifiedTypeName name="._ContaEspecial"/>
+    <fullyQualifiedTypeName name="Casa_Nova"/>
+    <fullyQualifiedTypeName name="Ingressos_INGR"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.toolkit.util.DocFinder.Input"/>
+    <fullyQualifiedTypeName name="VIP_INGR"/>
 </qualifiedTypeNameHistroy>
